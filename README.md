@@ -1,6 +1,6 @@
 <h1 align="center">Hello Niggas 👋, I'm Doctor Strange aka Faizaan Bashir</h1>
 
-<h2 align="center"> <span>Iam</span> A Noob Who's Interested In AOSP Stuff</h2>
+<h2 align="center"> <span>Iam</span> I'm a medical student who's interested in AOSP & Kernel stuff</h2>
 
 <h3>About me</h3>
 
