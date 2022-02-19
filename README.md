@@ -5,11 +5,7 @@
 <h3>About me</h3>
 
 - 🏠 <p>I am 19 Years Old and <span> From India </span></p>
-- 🌱 <p>I am currently learning <span>CSS/HTML,PHP & JavaScript</span></p> 
-
-##
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thefaizanbashir&theme=shades-of-purple&show_icons=true)
+- 🌱 <p>I am currently learning <span>CSS,HTML,PHP & JavaScript</span></p>
 
 ##
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thefaizanbashir&theme=shades-of-purple&show_icons=true)
