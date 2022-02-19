@@ -17,4 +17,4 @@
 
 <a href="https://github.com/thefaizanbashir"><img align="center" width="100%" padding ="30px" src="img/dev.gif"></a>
 
-- You can find me here! <a href="https://t.me/the_doctorstrange" target="_blank">Telegram</a> 📫
+- You can find me here: <a href="https://t.me/the_doctorstrange" target="_blank">Telegram</a> 📫
