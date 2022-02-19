@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 
-- 🏠 <p>I am 19 Years Old and <span> From India </span></p>
+- 🏠 <p>I am 19 Years Old, I'm from India </span></p>
 - 🌱 <p>I am currently learning <span>CSS,HTML,PHP & JavaScript</span></p>
 
 ##
