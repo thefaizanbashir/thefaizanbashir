@@ -21,4 +21,4 @@
 
 <a href="https://github.com/thefaizanbashir"><img align="center" width="100%" padding ="30px" src="img/dev.gif"></a>
 
-- Telegram <a href="https://t.me/thefaizanbashir" target="_blank">Telegram</a> 📫
+- Telegram <a href="https://t.me/the_doctorstrange" target="_blank">Telegram</a> 📫
