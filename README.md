@@ -1,4 +1,4 @@
-<h1 align="center">Hello FRAAANDS! 👋, I'm Doctor Strange aka Faizaan Bashir</h1>
+<h1 align="center">Hello FRAAANDS! 👋, I'm Faizaan Bashir</h1>
 
 <h2 align="center"> <span> I'm a medical student who's interested in AOSP & Kernel stuff</h2>
 
