@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 
-- 🏠 <p>I'm 19 years old, I'm currently preparing for NEET Examination  </span></p>
+- 🏠 <p>I'm 19 years old preparing for NEET Examination  </span></p>
 - 🌱 <p>I am currently learning <span>CSS,HTML,PHP & JavaScript</span></p>
 
 ##
