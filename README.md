@@ -1,10 +1,10 @@
 <h1 align="center">Hola! 👋, I'm Doctor Strange aka Faizan Bashir</h1>
 
-<h2 align="center"> <span> I'm a medical student who's interested in AOSP & Kernel stuff</h2>
+<h2 align="center"> <span> I'm a science student who's interested in AOSP & Kernel stuff</h2>
 
 <h3>About me</h3>
 
-- 🏠 <p>I'm 19 years old preparing for NEET Examination  </span></p>
+- 🏠 <p>I'm a 20 years old B.Sc Nanoscience & Nanotechnology student </span></p>
 - 🌱 <p>I am currently learning <span>CSS,HTML,PHP & JavaScript</span></p>
 
 ##
